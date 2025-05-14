@@ -83,6 +83,5 @@ Experiment with deep learning models (e.g., neural networks) for improved accura
 Add cross-validation for more robust evaluation.
 
 Author
-[Your Name][Your LinkedIn/GitHub Profile][Your Email]  
-License
-This project is licensed under the MIT License.
+MD Mehedi Hasan Mithun
+https://www.linkedin.com/in/md-mehedi-hasan-mithun-1428b1124/
